@@ -1,0 +1,501 @@
+Car_ID,Brand,Model,Year,Color,Engine_Type,Transmission, Price ,Quantity_In_Stock,Status
+C0001,Toyota,Camry,2023,Red,Petrol,Automatic," $80,338 ",6,Available
+C0002,Tesla,Model 3,2019,Red,Electric,Manual," $26,438 ",16,Available
+C0003,Nissan,Qashqai,2018,Blue,Electric,Automatic," $50,158 ",20,Available
+C0004,Hyundai,Sonata,2025,Red,Hybrid,Automatic," $33,026 ",3,Available
+C0005,Toyota,RAV4,2016,White,Hybrid,Manual," $79,673 ",9,Reserved
+C0006,Hyundai,Elantra,2019,White,Diesel,Automatic," $94,225 ",17,Sold
+C0007,Mercedes,C-Class,2020,Gray,Petrol,Manual," $21,344 ",7,Reserved
+C0008,Tesla,Model 3,2021,Gray,Hybrid,Manual," $48,814 ",14,Reserved
+C0009,BMW,3 Series,2017,Blue,Electric,Manual," $34,430 ",14,Sold
+C0010,Tesla,Model S,2015,Red,Hybrid,Manual," $42,137 ",0,Sold
+C0011,Tesla,Model 3,2017,Silver,Electric,Automatic," $17,337 ",3,Available
+C0012,Tesla,Model S,2016,Gray,Electric,Manual," $78,179 ",13,Reserved
+C0013,Hyundai,Sonata,2018,Blue,Diesel,Manual," $92,616 ",2,Sold
+C0014,Toyota,RAV4,2024,Silver,Hybrid,Automatic," $97,512 ",18,Reserved
+C0015,Nissan,Altima,2019,Blue,Diesel,Manual," $89,268 ",17,Reserved
+C0016,BMW,3 Series,2024,Black,Petrol,Manual," $36,006 ",10,Reserved
+C0017,Nissan,Qashqai,2018,Silver,Petrol,Automatic," $30,586 ",2,Reserved
+C0018,Nissan,Qashqai,2016,Black,Petrol,Manual," $71,105 ",15,Reserved
+C0019,Tesla,Model S,2019,White,Diesel,Manual," $24,426 ",2,Sold
+C0020,Toyota,Camry,2022,Blue,Electric,Manual," $68,271 ",2,Sold
+C0021,BMW,3 Series,2020,Red,Diesel,Automatic," $60,882 ",19,Available
+C0022,Tesla,Model X,2018,Red,Diesel,Automatic," $40,366 ",18,Sold
+C0023,Tesla,Model 3,2024,Silver,Diesel,Automatic," $51,077 ",20,Reserved
+C0024,Mercedes,E-Class,2019,Blue,Petrol,Manual," $33,547 ",8,Sold
+C0025,Nissan,Altima,2016,Silver,Petrol,Manual," $48,205 ",2,Available
+C0026,BMW,3 Series,2023,Black,Electric,Automatic," $94,847 ",5,Sold
+C0027,Mercedes,E-Class,2020,Gray,Hybrid,Manual," $30,021 ",8,Available
+C0028,Kia,Sportage,2016,Blue,Hybrid,Manual," $64,477 ",10,Sold
+C0029,Tesla,Model 3,2024,Silver,Hybrid,Manual," $87,084 ",11,Sold
+C0030,Hyundai,Tucson,2022,Gray,Diesel,Manual," $30,893 ",0,Available
+C0031,Mercedes,E-Class,2016,Silver,Petrol,Automatic," $66,366 ",5,Reserved
+C0032,Tesla,Model X,2018,Blue,Petrol,Automatic," $65,577 ",10,Reserved
+C0033,Tesla,Model 3,2020,White,Petrol,Manual," $21,841 ",10,Sold
+C0034,Toyota,Camry,2023,Blue,Petrol,Automatic," $89,206 ",18,Available
+C0035,Kia,Cerato,2023,Blue,Hybrid,Manual," $65,267 ",5,Sold
+C0036,Toyota,Camry,2017,Red,Electric,Automatic," $22,685 ",13,Available
+C0037,Kia,Sportage,2024,Red,Diesel,Manual," $18,249 ",15,Sold
+C0038,Nissan,Altima,2017,White,Electric,Automatic," $17,943 ",17,Available
+C0039,Kia,Cerato,2022,Gray,Hybrid,Automatic," $79,781 ",19,Available
+C0040,Tesla,Model X,2016,White,Diesel,Manual," $18,775 ",15,Sold
+C0041,Nissan,Qashqai,2015,Blue,Hybrid,Manual," $48,152 ",15,Sold
+C0042,Mercedes,E-Class,2018,Gray,Hybrid,Automatic," $52,741 ",19,Reserved
+C0043,Hyundai,Sonata,2018,Silver,Diesel,Automatic," $24,981 ",17,Reserved
+C0044,BMW,3 Series,2019,White,Diesel,Automatic," $34,474 ",8,Sold
+C0045,BMW,5 Series,2020,White,Electric,Manual," $85,822 ",0,Reserved
+C0046,BMW,X5,2022,White,Hybrid,Automatic," $99,941 ",11,Sold
+C0047,Tesla,Model S,2019,White,Electric,Manual," $37,412 ",7,Available
+C0048,Mercedes,GLA,2022,Black,Petrol,Automatic," $72,301 ",17,Available
+C0049,Tesla,Model S,2020,Red,Diesel,Automatic," $58,158 ",5,Sold
+C0050,Mercedes,C-Class,2024,Red,Diesel,Manual," $88,725 ",16,Reserved
+C0051,Kia,Sportage,2020,Gray,Diesel,Automatic," $29,038 ",5,Sold
+C0052,Kia,Sportage,2022,Gray,Diesel,Manual," $26,076 ",20,Available
+C0053,Tesla,Model X,2022,Black,Hybrid,Manual," $33,622 ",13,Sold
+C0054,Toyota,Camry,2018,Silver,Hybrid,Manual," $30,129 ",20,Reserved
+C0055,BMW,X5,2015,Blue,Diesel,Automatic," $77,348 ",16,Available
+C0056,Nissan,Sunny,2021,Gray,Diesel,Manual," $65,877 ",8,Available
+C0057,Nissan,Altima,2018,Black,Diesel,Manual," $61,473 ",18,Available
+C0058,Tesla,Model S,2023,Black,Electric,Automatic," $94,755 ",12,Available
+C0059,Kia,Sportage,2020,Gray,Petrol,Manual," $91,552 ",4,Sold
+C0060,Toyota,Corolla,2023,Silver,Diesel,Manual," $99,129 ",1,Reserved
+C0061,Nissan,Sunny,2019,Black,Petrol,Manual," $70,325 ",19,Available
+C0062,Tesla,Model X,2017,Black,Electric,Manual," $39,427 ",13,Available
+C0063,Kia,Seltos,2019,Red,Diesel,Manual," $83,222 ",16,Sold
+C0064,Hyundai,Tucson,2019,Silver,Diesel,Automatic," $37,129 ",7,Reserved
+C0065,Nissan,Altima,2019,Gray,Electric,Manual," $46,081 ",2,Available
+C0066,Mercedes,E-Class,2017,White,Hybrid,Manual," $94,252 ",11,Reserved
+C0067,Hyundai,Elantra,2016,Silver,Diesel,Manual," $16,671 ",18,Reserved
+C0068,Hyundai,Tucson,2018,Black,Diesel,Automatic," $47,911 ",5,Sold
+C0069,Hyundai,Sonata,2023,Blue,Hybrid,Automatic," $31,313 ",19,Available
+C0070,Hyundai,Sonata,2016,Black,Hybrid,Automatic," $37,639 ",19,Reserved
+C0071,Kia,Seltos,2017,Black,Electric,Automatic," $53,636 ",4,Available
+C0072,Mercedes,GLA,2016,Red,Electric,Manual," $90,776 ",5,Available
+C0073,Kia,Sportage,2015,Red,Diesel,Manual," $81,463 ",15,Reserved
+C0074,Hyundai,Tucson,2017,Gray,Electric,Automatic," $92,662 ",5,Available
+C0075,Kia,Seltos,2020,Black,Petrol,Automatic," $87,777 ",9,Reserved
+C0076,Nissan,Qashqai,2020,Silver,Hybrid,Manual," $97,778 ",15,Available
+C0077,Toyota,RAV4,2018,Black,Electric,Automatic," $37,286 ",7,Sold
+C0078,BMW,3 Series,2020,Blue,Hybrid,Manual," $87,242 ",2,Available
+C0079,Toyota,Corolla,2019,Blue,Diesel,Automatic," $86,983 ",1,Available
+C0080,BMW,X5,2020,White,Petrol,Automatic," $97,807 ",13,Sold
+C0081,Tesla,Model 3,2016,Black,Petrol,Manual," $37,385 ",12,Reserved
+C0082,Tesla,Model S,2015,Gray,Diesel,Automatic," $71,328 ",16,Sold
+C0083,Hyundai,Elantra,2020,Black,Electric,Manual," $94,839 ",16,Available
+C0084,BMW,3 Series,2024,White,Petrol,Manual," $45,428 ",18,Available
+C0085,Mercedes,E-Class,2020,White,Diesel,Manual," $92,631 ",18,Reserved
+C0086,BMW,5 Series,2019,Silver,Hybrid,Automatic," $73,511 ",14,Available
+C0087,Mercedes,GLA,2025,Gray,Hybrid,Manual," $68,728 ",10,Available
+C0088,Kia,Cerato,2024,White,Hybrid,Automatic," $92,417 ",0,Sold
+C0089,Nissan,Qashqai,2018,Red,Electric,Manual," $33,212 ",14,Reserved
+C0090,BMW,5 Series,2019,Silver,Electric,Automatic," $17,920 ",10,Reserved
+C0091,Hyundai,Tucson,2018,Black,Electric,Manual," $92,700 ",8,Reserved
+C0092,Mercedes,GLA,2023,White,Petrol,Automatic," $78,375 ",10,Available
+C0093,Hyundai,Tucson,2019,Blue,Electric,Manual," $86,289 ",14,Sold
+C0094,Tesla,Model 3,2023,Silver,Hybrid,Automatic," $35,633 ",12,Sold
+C0095,Toyota,Camry,2023,White,Hybrid,Manual," $74,054 ",3,Reserved
+C0096,Nissan,Qashqai,2019,White,Petrol,Automatic," $61,661 ",1,Reserved
+C0097,Hyundai,Sonata,2025,White,Diesel,Automatic," $56,746 ",4,Sold
+C0098,Tesla,Model X,2017,Blue,Electric,Automatic," $99,875 ",17,Reserved
+C0099,Hyundai,Tucson,2018,Gray,Diesel,Automatic," $38,984 ",0,Reserved
+C0100,Nissan,Sunny,2018,Blue,Petrol,Manual," $74,108 ",10,Reserved
+C0101,Mercedes,GLA,2015,Silver,Hybrid,Manual," $75,530 ",11,Sold
+C0102,Toyota,Camry,2018,Red,Hybrid,Automatic," $95,036 ",10,Sold
+C0103,Nissan,Altima,2019,Red,Hybrid,Manual," $33,878 ",5,Available
+C0104,Mercedes,C-Class,2020,White,Petrol,Automatic," $88,830 ",3,Reserved
+C0105,Kia,Sportage,2022,White,Diesel,Manual," $54,845 ",12,Sold
+C0106,BMW,5 Series,2023,White,Petrol,Automatic," $57,449 ",18,Reserved
+C0107,Hyundai,Tucson,2021,Gray,Electric,Automatic," $46,741 ",14,Sold
+C0108,BMW,3 Series,2019,Gray,Electric,Automatic," $68,415 ",14,Sold
+C0109,Toyota,RAV4,2022,White,Electric,Manual," $97,205 ",0,Reserved
+C0110,Nissan,Sunny,2018,Gray,Petrol,Manual," $40,546 ",2,Available
+C0111,Kia,Sportage,2016,Black,Petrol,Automatic," $96,742 ",17,Sold
+C0112,Nissan,Altima,2021,Red,Hybrid,Manual," $46,778 ",10,Sold
+C0113,Toyota,RAV4,2024,White,Diesel,Automatic," $35,195 ",6,Available
+C0114,Hyundai,Tucson,2024,Blue,Hybrid,Manual," $63,367 ",16,Available
+C0115,Tesla,Model X,2015,Red,Electric,Manual," $98,106 ",17,Sold
+C0116,Tesla,Model X,2020,Black,Petrol,Automatic," $43,309 ",0,Reserved
+C0117,Toyota,Corolla,2016,Gray,Petrol,Manual," $25,746 ",14,Reserved
+C0118,BMW,X5,2023,Red,Petrol,Automatic," $77,133 ",13,Sold
+C0119,Mercedes,GLA,2018,Black,Hybrid,Manual," $23,200 ",17,Available
+C0120,Nissan,Qashqai,2016,Black,Petrol,Manual," $56,469 ",2,Reserved
+C0121,Nissan,Sunny,2022,Silver,Diesel,Manual," $62,501 ",20,Reserved
+C0122,Tesla,Model 3,2018,Blue,Petrol,Manual," $85,848 ",20,Available
+C0123,Mercedes,E-Class,2021,White,Petrol,Automatic," $23,631 ",19,Reserved
+C0124,Nissan,Sunny,2015,Blue,Diesel,Manual," $44,875 ",18,Reserved
+C0125,Tesla,Model S,2017,Silver,Electric,Automatic," $35,201 ",9,Available
+C0126,Nissan,Sunny,2024,White,Electric,Automatic," $67,564 ",2,Sold
+C0127,Toyota,Camry,2025,Red,Diesel,Manual," $93,219 ",3,Reserved
+C0128,Kia,Seltos,2019,Gray,Diesel,Manual," $84,135 ",12,Available
+C0129,Kia,Sportage,2016,Blue,Hybrid,Automatic," $95,883 ",15,Reserved
+C0130,Mercedes,GLA,2021,White,Hybrid,Automatic," $48,149 ",6,Available
+C0131,Toyota,RAV4,2025,Blue,Electric,Automatic," $61,924 ",9,Sold
+C0132,Hyundai,Sonata,2022,Silver,Electric,Automatic," $58,246 ",19,Reserved
+C0133,Kia,Sportage,2020,Black,Diesel,Manual," $20,193 ",7,Reserved
+C0134,Toyota,Camry,2016,Gray,Diesel,Automatic," $51,530 ",8,Sold
+C0135,Mercedes,C-Class,2015,White,Hybrid,Automatic," $55,816 ",5,Sold
+C0136,BMW,3 Series,2019,Gray,Petrol,Manual," $84,504 ",20,Sold
+C0137,BMW,X5,2016,Silver,Petrol,Manual," $49,660 ",12,Sold
+C0138,Toyota,Camry,2024,Blue,Hybrid,Automatic," $71,116 ",7,Sold
+C0139,Tesla,Model 3,2019,White,Diesel,Automatic," $63,901 ",13,Available
+C0140,BMW,X5,2025,Red,Hybrid,Manual," $22,543 ",11,Sold
+C0141,Tesla,Model X,2022,Gray,Electric,Manual," $49,552 ",8,Reserved
+C0142,Hyundai,Tucson,2016,Blue,Diesel,Automatic," $39,878 ",5,Available
+C0143,BMW,X5,2019,Red,Electric,Manual," $97,300 ",4,Sold
+C0144,BMW,5 Series,2021,Black,Electric,Automatic," $71,068 ",7,Sold
+C0145,Mercedes,C-Class,2019,Blue,Petrol,Manual," $89,690 ",10,Sold
+C0146,Kia,Seltos,2024,White,Petrol,Manual," $32,150 ",14,Reserved
+C0147,Mercedes,GLA,2018,White,Electric,Automatic," $40,102 ",13,Available
+C0148,Toyota,RAV4,2015,Gray,Diesel,Manual," $60,714 ",13,Reserved
+C0149,Nissan,Sunny,2016,White,Diesel,Manual," $89,010 ",18,Available
+C0150,Hyundai,Tucson,2017,Blue,Petrol,Manual," $78,555 ",10,Available
+C0151,Hyundai,Sonata,2017,Gray,Petrol,Manual," $44,911 ",6,Sold
+C0152,Hyundai,Elantra,2022,Red,Hybrid,Automatic," $18,450 ",1,Sold
+C0153,Kia,Cerato,2016,Black,Hybrid,Automatic," $86,495 ",15,Reserved
+C0154,Tesla,Model 3,2018,Silver,Petrol,Manual," $41,195 ",19,Reserved
+C0155,Mercedes,C-Class,2022,Blue,Petrol,Automatic," $15,064 ",16,Available
+C0156,Hyundai,Sonata,2015,Gray,Hybrid,Manual," $22,780 ",13,Available
+C0157,Mercedes,E-Class,2024,Silver,Hybrid,Manual," $54,478 ",5,Available
+C0158,Hyundai,Elantra,2018,White,Hybrid,Manual," $15,564 ",18,Reserved
+C0159,Toyota,RAV4,2019,Black,Diesel,Automatic," $37,017 ",6,Sold
+C0160,BMW,X5,2018,Red,Petrol,Manual," $56,410 ",20,Sold
+C0161,Mercedes,C-Class,2016,Silver,Petrol,Manual," $26,413 ",8,Reserved
+C0162,Nissan,Qashqai,2015,Gray,Electric,Manual," $53,009 ",7,Available
+C0163,Tesla,Model X,2020,Gray,Diesel,Manual," $46,278 ",17,Reserved
+C0164,Tesla,Model S,2023,White,Petrol,Automatic," $42,465 ",3,Available
+C0165,Tesla,Model S,2016,Gray,Petrol,Manual," $64,280 ",17,Reserved
+C0166,Tesla,Model X,2022,White,Petrol,Automatic," $44,421 ",9,Sold
+C0167,Mercedes,GLA,2021,Silver,Hybrid,Automatic," $56,348 ",6,Available
+C0168,Toyota,Camry,2019,Gray,Diesel,Manual," $34,744 ",20,Reserved
+C0169,Toyota,Corolla,2023,White,Petrol,Manual," $77,946 ",1,Sold
+C0170,Toyota,Camry,2024,Black,Electric,Manual," $25,734 ",14,Sold
+C0171,Tesla,Model X,2024,Red,Petrol,Automatic," $23,724 ",9,Reserved
+C0172,Mercedes,C-Class,2015,Gray,Hybrid,Manual," $25,393 ",8,Sold
+C0173,Toyota,Camry,2020,Blue,Petrol,Automatic," $57,345 ",10,Available
+C0174,Toyota,Corolla,2025,White,Electric,Automatic," $18,522 ",12,Available
+C0175,Nissan,Sunny,2024,Gray,Hybrid,Automatic," $74,816 ",19,Reserved
+C0176,BMW,3 Series,2022,Black,Hybrid,Manual," $95,525 ",6,Reserved
+C0177,BMW,5 Series,2021,Red,Petrol,Automatic," $94,367 ",8,Reserved
+C0178,Kia,Cerato,2025,White,Petrol,Automatic," $77,095 ",6,Sold
+C0179,Nissan,Sunny,2020,Gray,Petrol,Manual," $43,838 ",5,Reserved
+C0180,Nissan,Sunny,2025,Blue,Electric,Manual," $15,713 ",19,Reserved
+C0181,Tesla,Model S,2018,Red,Hybrid,Automatic," $19,270 ",16,Reserved
+C0182,Kia,Cerato,2018,Silver,Diesel,Manual," $94,593 ",16,Available
+C0183,Mercedes,E-Class,2022,Red,Petrol,Automatic," $40,162 ",3,Available
+C0184,Kia,Seltos,2015,White,Hybrid,Automatic," $90,026 ",6,Sold
+C0185,Hyundai,Tucson,2015,Gray,Electric,Automatic," $22,265 ",2,Available
+C0186,BMW,X5,2016,Silver,Diesel,Automatic," $95,629 ",4,Available
+C0187,Hyundai,Tucson,2021,Black,Electric,Automatic," $62,336 ",20,Reserved
+C0188,Toyota,Corolla,2018,Red,Diesel,Automatic," $62,763 ",8,Sold
+C0189,BMW,3 Series,2020,Blue,Electric,Manual," $66,184 ",9,Available
+C0190,BMW,5 Series,2023,Blue,Petrol,Manual," $42,304 ",9,Reserved
+C0191,Nissan,Qashqai,2025,Gray,Petrol,Manual," $42,583 ",4,Available
+C0192,Nissan,Sunny,2015,Gray,Diesel,Manual," $92,711 ",2,Sold
+C0193,Toyota,Camry,2020,Black,Petrol,Manual," $91,143 ",6,Available
+C0194,BMW,5 Series,2020,Red,Electric,Manual," $47,141 ",8,Reserved
+C0195,Tesla,Model X,2020,Gray,Diesel,Manual," $36,872 ",2,Available
+C0196,Hyundai,Elantra,2021,Red,Petrol,Automatic," $44,101 ",14,Available
+C0197,Toyota,Camry,2021,Black,Petrol,Automatic," $85,572 ",18,Available
+C0198,Tesla,Model X,2022,White,Hybrid,Automatic," $35,440 ",12,Available
+C0199,Hyundai,Elantra,2025,Silver,Diesel,Manual," $42,536 ",4,Sold
+C0200,Toyota,Corolla,2022,Gray,Petrol,Manual," $71,250 ",20,Available
+C0201,Toyota,Camry,2023,Red,Hybrid,Automatic," $57,000 ",17,Available
+C0202,Mercedes,C-Class,2018,Blue,Diesel,Automatic," $35,183 ",8,Sold
+C0203,Kia,Cerato,2025,Silver,Hybrid,Manual," $26,695 ",0,Reserved
+C0204,Tesla,Model S,2019,Blue,Electric,Manual," $19,232 ",17,Reserved
+C0205,Mercedes,GLA,2018,Black,Electric,Manual," $91,064 ",9,Sold
+C0206,Kia,Sportage,2019,Black,Petrol,Manual," $95,802 ",1,Reserved
+C0207,Nissan,Sunny,2022,Red,Petrol,Manual," $36,900 ",8,Available
+C0208,BMW,3 Series,2024,Blue,Electric,Automatic," $43,450 ",12,Reserved
+C0209,Mercedes,GLA,2023,White,Electric,Manual," $49,027 ",20,Sold
+C0210,Tesla,Model S,2016,Gray,Electric,Automatic," $74,917 ",13,Available
+C0211,Toyota,Camry,2018,Black,Diesel,Automatic," $68,208 ",18,Sold
+C0212,Kia,Cerato,2016,Silver,Electric,Automatic," $29,138 ",1,Available
+C0213,Toyota,Corolla,2018,Red,Electric,Automatic," $86,748 ",8,Available
+C0214,Toyota,RAV4,2023,Black,Diesel,Automatic," $64,961 ",6,Sold
+C0215,Kia,Cerato,2024,Silver,Electric,Manual," $56,253 ",20,Sold
+C0216,BMW,5 Series,2025,Blue,Hybrid,Automatic," $66,994 ",20,Available
+C0217,Kia,Seltos,2025,Silver,Electric,Manual," $54,557 ",6,Reserved
+C0218,Kia,Sportage,2018,Blue,Electric,Automatic," $18,999 ",10,Available
+C0219,Mercedes,GLA,2020,Red,Diesel,Automatic," $36,444 ",2,Available
+C0220,Toyota,Camry,2021,White,Petrol,Manual," $27,036 ",0,Sold
+C0221,Toyota,Camry,2016,White,Diesel,Automatic," $32,321 ",14,Sold
+C0222,Tesla,Model S,2020,Red,Diesel,Automatic," $35,547 ",0,Available
+C0223,Tesla,Model S,2020,White,Petrol,Manual," $66,031 ",5,Reserved
+C0224,BMW,5 Series,2022,Black,Electric,Manual," $17,317 ",19,Available
+C0225,Tesla,Model S,2019,Blue,Petrol,Automatic," $30,317 ",18,Sold
+C0226,Mercedes,GLA,2016,White,Diesel,Manual," $73,197 ",6,Available
+C0227,BMW,3 Series,2015,White,Hybrid,Automatic," $33,512 ",10,Reserved
+C0228,Toyota,Corolla,2021,Gray,Petrol,Manual," $80,597 ",0,Sold
+C0229,Kia,Cerato,2022,Black,Petrol,Manual," $49,690 ",18,Available
+C0230,BMW,3 Series,2016,Blue,Hybrid,Automatic," $75,684 ",17,Reserved
+C0231,Toyota,Camry,2024,White,Petrol,Manual," $41,319 ",17,Available
+C0232,Mercedes,GLA,2018,Gray,Diesel,Automatic," $93,985 ",17,Reserved
+C0233,Toyota,Corolla,2016,Blue,Electric,Automatic," $34,357 ",15,Available
+C0234,Nissan,Qashqai,2022,Gray,Diesel,Automatic," $78,321 ",11,Available
+C0235,Kia,Seltos,2024,Silver,Petrol,Automatic," $40,426 ",2,Sold
+C0236,Mercedes,GLA,2019,Silver,Electric,Manual," $99,664 ",14,Sold
+C0237,Mercedes,GLA,2018,Blue,Hybrid,Manual," $92,693 ",6,Reserved
+C0238,BMW,5 Series,2022,Gray,Electric,Automatic," $23,452 ",16,Available
+C0239,Toyota,Camry,2019,Blue,Electric,Automatic," $84,198 ",14,Available
+C0240,BMW,5 Series,2025,Silver,Electric,Manual," $56,337 ",0,Sold
+C0241,Toyota,RAV4,2018,Red,Hybrid,Automatic," $48,576 ",10,Available
+C0242,Tesla,Model X,2018,Red,Petrol,Automatic," $68,211 ",0,Available
+C0243,Tesla,Model S,2018,Silver,Hybrid,Automatic," $63,693 ",3,Reserved
+C0244,Tesla,Model X,2025,Blue,Hybrid,Manual," $67,287 ",4,Available
+C0245,Mercedes,E-Class,2021,Black,Diesel,Automatic," $59,861 ",16,Available
+C0246,Mercedes,C-Class,2015,Black,Hybrid,Manual," $70,410 ",20,Available
+C0247,Mercedes,GLA,2022,Blue,Petrol,Automatic," $45,148 ",2,Available
+C0248,Nissan,Qashqai,2016,Gray,Hybrid,Manual," $72,387 ",14,Reserved
+C0249,Hyundai,Tucson,2021,White,Petrol,Manual," $65,307 ",16,Available
+C0250,Nissan,Qashqai,2020,Gray,Diesel,Automatic," $80,443 ",12,Available
+C0251,Hyundai,Sonata,2017,Red,Hybrid,Manual," $77,126 ",5,Available
+C0252,Kia,Seltos,2015,Blue,Electric,Manual," $65,579 ",4,Available
+C0253,Nissan,Sunny,2023,Red,Petrol,Automatic," $40,904 ",14,Reserved
+C0254,BMW,X5,2025,Blue,Diesel,Automatic," $34,443 ",10,Reserved
+C0255,BMW,5 Series,2025,Black,Petrol,Automatic," $16,073 ",0,Reserved
+C0256,Nissan,Qashqai,2019,Gray,Diesel,Manual," $69,403 ",19,Available
+C0257,BMW,3 Series,2024,Blue,Diesel,Manual," $36,852 ",3,Sold
+C0258,Toyota,Corolla,2023,Black,Electric,Automatic," $76,451 ",0,Available
+C0259,Kia,Sportage,2024,Black,Diesel,Manual," $15,433 ",0,Available
+C0260,Tesla,Model S,2024,Black,Hybrid,Automatic," $75,765 ",2,Sold
+C0261,Tesla,Model X,2022,Silver,Hybrid,Automatic," $60,188 ",19,Reserved
+C0262,Nissan,Sunny,2017,Red,Diesel,Automatic," $15,732 ",20,Reserved
+C0263,Hyundai,Sonata,2022,White,Hybrid,Manual," $82,694 ",16,Sold
+C0264,Tesla,Model 3,2019,Silver,Hybrid,Manual," $70,040 ",6,Reserved
+C0265,Kia,Seltos,2018,Gray,Petrol,Manual," $29,781 ",13,Reserved
+C0266,Tesla,Model X,2020,White,Hybrid,Automatic," $24,743 ",0,Available
+C0267,BMW,X5,2024,White,Electric,Manual," $40,159 ",0,Sold
+C0268,BMW,5 Series,2022,White,Electric,Manual," $77,898 ",1,Available
+C0269,Nissan,Qashqai,2015,Gray,Electric,Automatic," $52,804 ",11,Available
+C0270,Tesla,Model 3,2024,Black,Electric,Manual," $76,671 ",3,Reserved
+C0271,Nissan,Qashqai,2016,Gray,Diesel,Automatic," $60,403 ",20,Sold
+C0272,BMW,X5,2025,Gray,Electric,Manual," $36,262 ",13,Sold
+C0273,Mercedes,GLA,2019,Silver,Hybrid,Automatic," $97,570 ",16,Available
+C0274,Nissan,Altima,2015,Silver,Electric,Manual," $94,691 ",17,Sold
+C0275,BMW,3 Series,2017,Silver,Electric,Manual," $44,753 ",11,Sold
+C0276,Nissan,Sunny,2025,Blue,Petrol,Automatic," $50,703 ",4,Reserved
+C0277,Nissan,Qashqai,2016,White,Hybrid,Automatic," $34,256 ",2,Available
+C0278,Nissan,Altima,2016,Silver,Petrol,Manual," $84,962 ",2,Sold
+C0279,Kia,Seltos,2015,Red,Electric,Automatic," $85,933 ",18,Sold
+C0280,Tesla,Model 3,2015,Blue,Electric,Automatic," $15,391 ",18,Reserved
+C0281,Tesla,Model S,2020,Black,Petrol,Manual," $64,086 ",0,Sold
+C0282,Mercedes,E-Class,2017,Blue,Hybrid,Automatic," $68,813 ",14,Reserved
+C0283,Toyota,Camry,2022,White,Hybrid,Manual," $28,195 ",17,Sold
+C0284,Mercedes,C-Class,2022,Blue,Electric,Automatic," $51,668 ",9,Reserved
+C0285,Kia,Cerato,2017,White,Diesel,Manual," $16,765 ",19,Sold
+C0286,Nissan,Sunny,2025,Silver,Hybrid,Manual," $59,081 ",7,Sold
+C0287,Hyundai,Sonata,2024,Gray,Diesel,Automatic," $52,823 ",0,Sold
+C0288,BMW,3 Series,2018,Black,Diesel,Automatic," $79,631 ",14,Sold
+C0289,Tesla,Model 3,2025,White,Diesel,Automatic," $29,873 ",17,Reserved
+C0290,Mercedes,GLA,2022,Blue,Diesel,Automatic," $99,707 ",19,Available
+C0291,Kia,Sportage,2018,Silver,Diesel,Manual," $76,715 ",11,Sold
+C0292,Hyundai,Elantra,2022,Blue,Diesel,Automatic," $79,140 ",9,Sold
+C0293,BMW,3 Series,2015,White,Electric,Automatic," $69,115 ",16,Available
+C0294,Nissan,Sunny,2020,Silver,Electric,Automatic," $50,422 ",13,Reserved
+C0295,Hyundai,Elantra,2025,Blue,Hybrid,Manual," $97,630 ",9,Sold
+C0296,Nissan,Qashqai,2019,White,Petrol,Automatic," $36,489 ",4,Available
+C0297,Hyundai,Tucson,2023,Blue,Electric,Manual," $83,332 ",1,Reserved
+C0298,Kia,Seltos,2017,Red,Diesel,Automatic," $80,850 ",4,Available
+C0299,Tesla,Model S,2024,White,Electric,Automatic," $53,359 ",19,Sold
+C0300,Mercedes,C-Class,2015,Silver,Electric,Manual," $84,003 ",10,Sold
+C0301,BMW,X5,2022,Black,Petrol,Automatic," $86,539 ",17,Available
+C0302,Mercedes,C-Class,2022,Black,Electric,Automatic," $78,238 ",14,Sold
+C0303,Tesla,Model X,2020,White,Hybrid,Manual," $41,005 ",8,Reserved
+C0304,BMW,5 Series,2017,Silver,Petrol,Manual," $44,558 ",16,Available
+C0305,Nissan,Altima,2018,Black,Petrol,Manual," $68,741 ",15,Sold
+C0306,Nissan,Qashqai,2021,Blue,Diesel,Manual," $80,288 ",0,Sold
+C0307,Kia,Cerato,2023,Red,Diesel,Manual," $18,650 ",19,Sold
+C0308,BMW,5 Series,2023,Black,Hybrid,Manual," $54,084 ",11,Sold
+C0309,Toyota,Camry,2018,Gray,Hybrid,Manual," $19,202 ",15,Available
+C0310,Hyundai,Elantra,2018,White,Petrol,Automatic," $97,892 ",5,Available
+C0311,Toyota,Corolla,2015,White,Hybrid,Automatic," $45,662 ",15,Sold
+C0312,Hyundai,Elantra,2022,Black,Petrol,Manual," $93,641 ",6,Available
+C0313,Toyota,Camry,2023,Red,Petrol,Manual," $66,822 ",16,Sold
+C0314,Tesla,Model X,2015,Red,Electric,Manual," $34,144 ",20,Reserved
+C0315,Mercedes,E-Class,2016,White,Diesel,Manual," $49,991 ",3,Reserved
+C0316,Toyota,RAV4,2024,Silver,Petrol,Manual," $65,719 ",5,Available
+C0317,Toyota,Camry,2025,Gray,Petrol,Automatic," $94,065 ",6,Available
+C0318,Mercedes,C-Class,2021,Black,Hybrid,Manual," $44,875 ",2,Sold
+C0319,Mercedes,C-Class,2023,Silver,Diesel,Automatic," $52,256 ",15,Available
+C0320,Kia,Cerato,2018,Blue,Diesel,Manual," $24,694 ",12,Sold
+C0321,Mercedes,C-Class,2025,Red,Hybrid,Manual," $72,244 ",15,Available
+C0322,Mercedes,GLA,2024,White,Electric,Manual," $76,945 ",9,Available
+C0323,Kia,Sportage,2021,Gray,Electric,Manual," $58,061 ",12,Sold
+C0324,Nissan,Sunny,2017,White,Petrol,Automatic," $49,935 ",11,Sold
+C0325,Hyundai,Sonata,2023,Red,Diesel,Automatic," $64,066 ",12,Reserved
+C0326,Tesla,Model S,2016,Red,Petrol,Automatic," $73,631 ",16,Available
+C0327,Mercedes,E-Class,2019,Black,Electric,Automatic," $91,910 ",12,Reserved
+C0328,Hyundai,Sonata,2016,Blue,Diesel,Automatic," $24,042 ",12,Reserved
+C0329,Tesla,Model S,2015,Black,Hybrid,Automatic," $86,885 ",5,Available
+C0330,Hyundai,Tucson,2025,White,Diesel,Automatic," $39,258 ",15,Available
+C0331,BMW,X5,2023,Silver,Diesel,Automatic," $21,666 ",8,Sold
+C0332,Nissan,Altima,2023,Black,Diesel,Automatic," $43,316 ",9,Available
+C0333,BMW,3 Series,2019,Blue,Diesel,Manual," $86,322 ",13,Sold
+C0334,BMW,3 Series,2017,White,Diesel,Manual," $47,843 ",10,Reserved
+C0335,Tesla,Model X,2018,White,Diesel,Manual," $65,421 ",19,Available
+C0336,Mercedes,C-Class,2025,Blue,Electric,Manual," $93,745 ",8,Reserved
+C0337,Nissan,Qashqai,2018,Black,Electric,Automatic," $26,411 ",20,Available
+C0338,Nissan,Sunny,2023,Red,Hybrid,Automatic," $90,238 ",1,Sold
+C0339,Tesla,Model S,2019,Gray,Hybrid,Manual," $92,883 ",10,Sold
+C0340,Kia,Seltos,2019,Black,Electric,Automatic," $53,012 ",20,Reserved
+C0341,Kia,Seltos,2022,Blue,Petrol,Manual," $35,862 ",7,Sold
+C0342,Nissan,Qashqai,2016,Red,Petrol,Automatic," $30,351 ",18,Available
+C0343,Nissan,Sunny,2019,Red,Hybrid,Manual," $83,160 ",19,Sold
+C0344,Nissan,Altima,2017,Red,Electric,Automatic," $82,071 ",11,Available
+C0345,Hyundai,Tucson,2017,White,Diesel,Automatic," $86,871 ",5,Reserved
+C0346,Nissan,Altima,2021,White,Diesel,Manual," $52,056 ",7,Reserved
+C0347,Nissan,Sunny,2023,Black,Petrol,Manual," $51,600 ",18,Reserved
+C0348,Hyundai,Tucson,2019,Red,Electric,Manual," $16,689 ",1,Reserved
+C0349,Nissan,Qashqai,2017,Gray,Hybrid,Automatic," $53,217 ",6,Available
+C0350,Kia,Seltos,2022,Black,Diesel,Manual," $52,463 ",15,Sold
+C0351,Kia,Seltos,2020,Gray,Petrol,Automatic," $30,658 ",1,Sold
+C0352,Tesla,Model S,2017,Black,Petrol,Automatic," $79,854 ",9,Reserved
+C0353,Tesla,Model X,2019,Red,Electric,Automatic," $21,728 ",7,Sold
+C0354,Toyota,Camry,2018,Black,Diesel,Manual," $89,064 ",4,Reserved
+C0355,Nissan,Sunny,2017,Silver,Diesel,Automatic," $66,193 ",6,Sold
+C0356,Toyota,RAV4,2017,Black,Diesel,Automatic," $93,494 ",6,Available
+C0357,Tesla,Model X,2019,Gray,Hybrid,Automatic," $55,936 ",0,Sold
+C0358,Kia,Seltos,2025,Blue,Electric,Manual," $96,428 ",8,Sold
+C0359,BMW,X5,2022,Red,Petrol,Manual," $95,666 ",2,Available
+C0360,Toyota,RAV4,2023,Black,Electric,Automatic," $55,890 ",14,Sold
+C0361,BMW,X5,2016,White,Petrol,Automatic," $96,776 ",2,Sold
+C0362,Nissan,Qashqai,2022,Silver,Petrol,Manual," $75,125 ",13,Sold
+C0363,Kia,Cerato,2015,Blue,Diesel,Manual," $99,989 ",3,Available
+C0364,Hyundai,Elantra,2024,Black,Diesel,Automatic," $24,072 ",5,Available
+C0365,Kia,Cerato,2023,Red,Petrol,Manual," $57,296 ",12,Reserved
+C0366,Hyundai,Elantra,2022,Black,Petrol,Automatic," $56,171 ",4,Sold
+C0367,Tesla,Model 3,2017,Gray,Diesel,Manual," $35,857 ",10,Available
+C0368,BMW,X5,2017,Silver,Petrol,Manual," $72,043 ",11,Available
+C0369,Nissan,Sunny,2021,White,Diesel,Manual," $42,813 ",2,Reserved
+C0370,Tesla,Model X,2025,Blue,Diesel,Manual," $68,216 ",1,Reserved
+C0371,Hyundai,Tucson,2023,Red,Hybrid,Manual," $34,069 ",14,Reserved
+C0372,Hyundai,Tucson,2024,Black,Petrol,Manual," $51,462 ",1,Reserved
+C0373,Nissan,Altima,2022,Black,Electric,Manual," $65,385 ",17,Sold
+C0374,Toyota,Camry,2017,Silver,Diesel,Automatic," $21,453 ",20,Reserved
+C0375,Mercedes,E-Class,2021,Red,Petrol,Automatic," $92,158 ",6,Reserved
+C0376,Nissan,Sunny,2016,Silver,Electric,Manual," $75,290 ",18,Sold
+C0377,Kia,Sportage,2021,Gray,Electric,Manual," $19,767 ",7,Reserved
+C0378,Kia,Cerato,2016,Gray,Petrol,Automatic," $94,188 ",13,Available
+C0379,BMW,5 Series,2018,Blue,Electric,Manual," $15,288 ",9,Sold
+C0380,Toyota,RAV4,2023,Black,Petrol,Automatic," $73,265 ",8,Reserved
+C0381,Nissan,Altima,2016,Black,Petrol,Automatic," $17,937 ",1,Sold
+C0382,Kia,Sportage,2024,Red,Hybrid,Manual," $97,407 ",10,Reserved
+C0383,Kia,Cerato,2018,Black,Hybrid,Automatic," $54,266 ",12,Sold
+C0384,Tesla,Model 3,2015,Black,Petrol,Automatic," $63,706 ",1,Available
+C0385,Mercedes,E-Class,2019,Silver,Electric,Automatic," $23,457 ",20,Reserved
+C0386,Toyota,Corolla,2018,Gray,Diesel,Automatic," $29,727 ",1,Sold
+C0387,Hyundai,Tucson,2016,Silver,Petrol,Manual," $80,106 ",13,Available
+C0388,Mercedes,E-Class,2020,Black,Electric,Automatic," $36,180 ",1,Sold
+C0389,Toyota,RAV4,2023,Silver,Hybrid,Automatic," $74,573 ",10,Reserved
+C0390,Nissan,Sunny,2023,Blue,Petrol,Automatic," $39,960 ",1,Reserved
+C0391,Nissan,Qashqai,2020,White,Electric,Automatic," $88,353 ",11,Sold
+C0392,Hyundai,Tucson,2018,Red,Hybrid,Automatic," $71,319 ",15,Reserved
+C0393,Toyota,RAV4,2022,Blue,Diesel,Automatic," $75,783 ",8,Available
+C0394,BMW,X5,2016,Black,Diesel,Automatic," $38,266 ",0,Reserved
+C0395,Toyota,RAV4,2025,Gray,Diesel,Automatic," $53,728 ",10,Sold
+C0396,Kia,Sportage,2017,Silver,Hybrid,Manual," $69,973 ",18,Reserved
+C0397,Mercedes,GLA,2024,Blue,Petrol,Automatic," $34,261 ",3,Reserved
+C0398,Nissan,Qashqai,2015,Black,Electric,Manual," $41,514 ",18,Available
+C0399,Kia,Seltos,2015,Red,Petrol,Manual," $68,707 ",20,Sold
+C0400,Toyota,Corolla,2016,Gray,Petrol,Automatic," $97,026 ",14,Reserved
+C0401,Hyundai,Sonata,2025,Silver,Hybrid,Manual," $89,679 ",1,Sold
+C0402,BMW,5 Series,2015,Red,Diesel,Manual," $94,457 ",18,Available
+C0403,Mercedes,GLA,2017,Silver,Electric,Automatic," $96,698 ",7,Sold
+C0404,Kia,Cerato,2021,Red,Petrol,Manual," $87,910 ",8,Sold
+C0405,Tesla,Model X,2023,Black,Hybrid,Automatic," $88,807 ",11,Reserved
+C0406,Toyota,Camry,2018,Gray,Hybrid,Automatic," $93,762 ",10,Sold
+C0407,Kia,Sportage,2015,Silver,Diesel,Automatic," $25,315 ",16,Available
+C0408,BMW,5 Series,2025,Black,Diesel,Manual," $52,324 ",4,Reserved
+C0409,Mercedes,GLA,2024,Blue,Electric,Automatic," $72,709 ",6,Sold
+C0410,Kia,Cerato,2025,Gray,Petrol,Automatic," $41,377 ",2,Reserved
+C0411,Nissan,Sunny,2025,Silver,Electric,Automatic," $92,928 ",9,Available
+C0412,BMW,5 Series,2025,Gray,Petrol,Manual," $22,417 ",16,Sold
+C0413,Kia,Seltos,2021,Silver,Petrol,Manual," $95,359 ",4,Reserved
+C0414,BMW,X5,2018,Red,Electric,Manual," $75,830 ",0,Available
+C0415,Mercedes,C-Class,2022,Red,Petrol,Manual," $40,627 ",17,Sold
+C0416,Mercedes,C-Class,2018,Black,Hybrid,Automatic," $36,409 ",5,Reserved
+C0417,Kia,Seltos,2020,Black,Hybrid,Automatic," $97,010 ",13,Available
+C0418,Mercedes,E-Class,2024,Silver,Hybrid,Automatic," $33,747 ",17,Reserved
+C0419,Hyundai,Elantra,2024,Blue,Electric,Automatic," $26,590 ",7,Sold
+C0420,Tesla,Model X,2021,Black,Diesel,Automatic," $99,308 ",5,Reserved
+C0421,Nissan,Sunny,2024,White,Electric,Automatic," $67,664 ",6,Available
+C0422,BMW,5 Series,2024,Silver,Diesel,Automatic," $24,444 ",10,Sold
+C0423,Kia,Cerato,2019,Gray,Electric,Automatic," $70,595 ",4,Sold
+C0424,Nissan,Qashqai,2020,Blue,Petrol,Manual," $70,389 ",9,Available
+C0425,Toyota,RAV4,2019,White,Diesel,Manual," $20,378 ",12,Available
+C0426,Hyundai,Tucson,2017,Black,Diesel,Manual," $72,164 ",4,Reserved
+C0427,Kia,Cerato,2022,Black,Hybrid,Manual," $81,522 ",1,Sold
+C0428,Mercedes,E-Class,2016,Black,Hybrid,Manual," $46,983 ",0,Reserved
+C0429,Mercedes,GLA,2025,Gray,Petrol,Manual," $86,656 ",12,Reserved
+C0430,Nissan,Sunny,2017,Red,Diesel,Automatic," $21,393 ",6,Reserved
+C0431,Hyundai,Tucson,2017,Silver,Petrol,Automatic," $90,207 ",2,Available
+C0432,Nissan,Sunny,2015,Red,Hybrid,Automatic," $49,079 ",14,Available
+C0433,Nissan,Altima,2015,Gray,Hybrid,Manual," $72,227 ",3,Sold
+C0434,Mercedes,E-Class,2019,Red,Petrol,Manual," $45,192 ",15,Sold
+C0435,Tesla,Model X,2016,Gray,Electric,Automatic," $25,337 ",3,Reserved
+C0436,Mercedes,GLA,2018,White,Diesel,Manual," $67,934 ",12,Available
+C0437,Nissan,Sunny,2025,Gray,Electric,Automatic," $99,670 ",7,Available
+C0438,Toyota,Camry,2020,Blue,Electric,Manual," $62,585 ",14,Reserved
+C0439,Hyundai,Tucson,2025,Gray,Diesel,Automatic," $70,577 ",17,Sold
+C0440,Tesla,Model 3,2016,Red,Electric,Manual," $77,163 ",19,Available
+C0441,BMW,3 Series,2019,Silver,Petrol,Manual," $99,719 ",6,Reserved
+C0442,Nissan,Sunny,2024,Black,Diesel,Manual," $90,546 ",3,Reserved
+C0443,Mercedes,GLA,2019,White,Petrol,Automatic," $15,041 ",6,Available
+C0444,Hyundai,Elantra,2015,Silver,Electric,Automatic," $52,123 ",19,Available
+C0445,Mercedes,C-Class,2022,White,Electric,Automatic," $67,001 ",7,Sold
+C0446,Mercedes,C-Class,2019,Red,Electric,Automatic," $96,503 ",11,Reserved
+C0447,Hyundai,Tucson,2017,White,Hybrid,Automatic," $96,125 ",13,Reserved
+C0448,Toyota,RAV4,2021,White,Petrol,Automatic," $81,741 ",6,Sold
+C0449,Kia,Cerato,2019,Blue,Hybrid,Automatic," $42,929 ",10,Available
+C0450,Hyundai,Tucson,2023,Black,Petrol,Automatic," $95,415 ",2,Available
+C0451,Toyota,Corolla,2020,Black,Electric,Manual," $71,681 ",5,Reserved
+C0452,BMW,X5,2021,Silver,Electric,Manual," $96,581 ",11,Available
+C0453,Tesla,Model X,2024,Black,Diesel,Automatic," $39,916 ",15,Reserved
+C0454,Tesla,Model 3,2016,Black,Petrol,Manual," $56,317 ",3,Reserved
+C0455,Nissan,Qashqai,2023,Gray,Hybrid,Manual," $94,666 ",0,Sold
+C0456,Kia,Sportage,2016,White,Petrol,Manual," $18,896 ",5,Available
+C0457,Mercedes,E-Class,2018,Black,Diesel,Manual," $89,426 ",8,Available
+C0458,Nissan,Sunny,2022,Gray,Hybrid,Manual," $21,314 ",4,Sold
+C0459,Mercedes,C-Class,2015,White,Diesel,Manual," $86,998 ",18,Available
+C0460,Kia,Seltos,2024,Gray,Electric,Automatic," $89,695 ",10,Available
+C0461,Mercedes,C-Class,2023,Gray,Electric,Manual," $69,816 ",9,Sold
+C0462,Kia,Cerato,2020,Gray,Diesel,Manual," $70,305 ",15,Available
+C0463,BMW,3 Series,2025,Black,Petrol,Manual," $97,547 ",9,Reserved
+C0464,Hyundai,Elantra,2023,White,Hybrid,Manual," $71,865 ",0,Sold
+C0465,BMW,X5,2020,Red,Electric,Manual," $97,326 ",5,Reserved
+C0466,Mercedes,E-Class,2015,White,Petrol,Manual," $31,162 ",5,Reserved
+C0467,Nissan,Qashqai,2016,Red,Petrol,Automatic," $67,754 ",5,Available
+C0468,BMW,5 Series,2024,Blue,Electric,Automatic," $22,865 ",3,Available
+C0469,Kia,Seltos,2021,Red,Diesel,Manual," $74,126 ",4,Available
+C0470,Mercedes,E-Class,2018,Red,Diesel,Manual," $57,973 ",15,Available
+C0471,Toyota,RAV4,2016,Silver,Hybrid,Automatic," $65,330 ",14,Sold
+C0472,Hyundai,Sonata,2024,Gray,Petrol,Manual," $57,968 ",16,Available
+C0473,BMW,5 Series,2018,White,Hybrid,Automatic," $77,674 ",5,Sold
+C0474,Hyundai,Elantra,2021,Black,Hybrid,Automatic," $96,802 ",17,Sold
+C0475,Mercedes,C-Class,2025,Gray,Hybrid,Manual," $39,426 ",10,Sold
+C0476,Toyota,Corolla,2025,Blue,Hybrid,Automatic," $98,035 ",9,Available
+C0477,Nissan,Sunny,2016,Gray,Electric,Automatic," $63,024 ",17,Sold
+C0478,Mercedes,GLA,2019,Blue,Electric,Manual," $39,151 ",13,Reserved
+C0479,Tesla,Model X,2019,Blue,Electric,Automatic," $95,030 ",3,Available
+C0480,Toyota,Camry,2020,Blue,Petrol,Automatic," $69,165 ",7,Available
+C0481,Mercedes,E-Class,2023,Gray,Hybrid,Manual," $53,295 ",12,Available
+C0482,Toyota,Camry,2018,Black,Hybrid,Manual," $47,304 ",3,Reserved
+C0483,Kia,Seltos,2020,Blue,Electric,Manual," $57,979 ",2,Available
+C0484,Toyota,Camry,2018,Gray,Petrol,Automatic," $35,701 ",10,Reserved
+C0485,Tesla,Model X,2022,Gray,Petrol,Manual," $95,461 ",8,Sold
+C0486,BMW,3 Series,2023,Silver,Electric,Manual," $64,129 ",4,Available
+C0487,Tesla,Model X,2018,White,Hybrid,Manual," $71,824 ",2,Available
+C0488,Tesla,Model 3,2025,White,Petrol,Automatic," $26,437 ",15,Sold
+C0489,Mercedes,E-Class,2018,White,Electric,Automatic," $76,993 ",7,Reserved
+C0490,BMW,5 Series,2016,Black,Hybrid,Automatic," $53,229 ",15,Available
+C0491,Kia,Seltos,2022,Red,Petrol,Automatic," $19,841 ",5,Sold
+C0492,Tesla,Model 3,2022,Blue,Electric,Manual," $16,341 ",10,Available
+C0493,Toyota,Corolla,2017,Black,Diesel,Automatic," $31,016 ",19,Reserved
+C0494,Toyota,Corolla,2017,White,Electric,Manual," $42,214 ",19,Reserved
+C0495,Tesla,Model S,2018,Black,Diesel,Automatic," $97,335 ",18,Sold
+C0496,BMW,X5,2023,Red,Diesel,Manual," $53,581 ",14,Available
+C0497,Nissan,Altima,2021,Black,Electric,Manual," $24,234 ",8,Available
+C0498,Mercedes,GLA,2018,Red,Petrol,Manual," $55,535 ",15,Available
+C0499,Tesla,Model 3,2025,Blue,Diesel,Manual," $59,692 ",14,Reserved
+C0500,Mercedes,GLA,2024,Blue,Electric,Automatic," $75,994 ",6,Sold
